@@ -3,7 +3,7 @@ Write JavaScript code for a calculator that can perform addition, subtraction, m
 Instead of `prompt` and the `console` functions to read input and display output, we will use the DOM for input and output.
 
 ## Demo
-https://subtle-beignet-6e9d35.netlify.app/q1/
+https://youtu.be/qVbb6DwqZ_g
 
 ## Incomplete Solution
 Here is the HTML code
