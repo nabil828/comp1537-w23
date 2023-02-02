@@ -57,5 +57,7 @@ jQuery(document).ready(setup)
 ## Deliverables
 Submit a Netlify link
 
-## Hints
+## Challenges
+- Implement the power math functionality. For example 2^3 = 8
+- Try to repeat the 2nd part of lab3, the stars labwork, using jQuery. Read the number of the triangle rows from the user using an input field and output the triangle to an html element, like a paragraph. 
 
